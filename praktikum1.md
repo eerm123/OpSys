@@ -5,4 +5,4 @@
 
 <img width="500" alt="Screenshot 2024-09-16 at 21 53 46" src="https://github.com/user-attachments/assets/c653ef90-07bc-4d14-97a6-9dfa3e6d2ab1">
 
-<img width="1200" alt="Screenshot 2024-09-16 at 21 35 19" src="https://github.com/user-attachments/assets/64687446-85e7-4a59-ab1c-5351069486b0">
+<img width="1200" alt="Screenshot 2024-09-16 at 22 07 30" src="https://github.com/user-attachments/assets/fdb2be8d-ce72-4042-a572-f28d637f55e2">
