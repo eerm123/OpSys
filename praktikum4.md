@@ -29,6 +29,7 @@ Microsoft soovitab lülitada sisse näiteks Windows Hello (näotuvastustuse, sõ
 Ülesanne 4-7,4-8:
 
 <img width="400" alt="Screenshot 2024-10-15 at 22 19 16" src="https://github.com/user-attachments/assets/a33737a4-d1ae-444e-bb85-ec8c7e44a7a6">
+
 Kuna olen Mac-kasutaja siis virtuaalmasin on arm-i peal ja ei töötand ilusti group policyte muutmine. Ei saanud tööle seda kohta kus kui proovid installeerida kõigile kontodele thonnyt, siis küsib Administraatori kontoga autentimist
 
 Ülesanne 4-9:
