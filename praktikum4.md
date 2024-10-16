@@ -17,7 +17,7 @@
 <img width="400" alt="Screenshot 2024-10-02 at 15 19 57" src="https://github.com/user-attachments/assets/cbd3cdd0-ddb3-4d01-9efa-546f666e4fa2"><img width="400" alt="Screenshot 2024-10-16 at 21 51 45" src="https://github.com/user-attachments/assets/01b7b60a-6540-485c-8048-ea8acfba8b6b">
 
 Ülesanne 4-4:
-Kernel level muudatusi saab teha, näiteks full access kõikidesse failidesse ja töötavate süsteemiteenuste muutmine
+Saab teha näiteks Kernel level muudatusi, full access kõikidesse failidesse ja töötavate süsteemiteenuste muutmine
 
 Ülesanne 4-5:
 
