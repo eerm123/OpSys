@@ -6,7 +6,7 @@
 
 1:
 
-<img width="400" alt="Screenshot 2024-10-30 at 21 03 06" src="https://github.com/user-attachments/assets/5faba6b9-fb86-4c97-86e1-2fe1380d78ca">
+<img width="400" alt="Screenshot 2024-10-30 at 21 19 04" src="https://github.com/user-attachments/assets/4b2351e6-9d4e-4398-8e40-5dd39a654f73">
 
 
 2:
