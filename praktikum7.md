@@ -31,13 +31,14 @@ Kuna minu Macbook-il ei olnud USB auku, siis mõtlesin, et loon endale virtuaals
 * (-t auto) parameeter määrab, et operatsioonisüsteem valiks automaatselt sobiva failisüsteemi tüübi
 
 2. Leidke mount-käsu väljundist üles, mis väärtusega asendas Ubuntu auto-parameetri?
-jurgenson24@jurgenson24:~$ mount | grep /media/usb
+
+* jurgenson24@jurgenson24:~$ mount | grep /media/usb
 /dev/sda1 on /media/usb type vfat (ro,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro)
 
 
 #### Ülesanne 6
 
-￼<img width="400" alt="Screenshot 2024-11-06 at 22 17 34" src="https://github.com/user-attachments/assets/797d79a5-3b20-48ea-ba98-d2a6e23804f9">
+<img width="400" alt="Screenshot 2024-11-06 at 22 17 34" src="https://github.com/user-attachments/assets/797d79a5-3b20-48ea-ba98-d2a6e23804f9">
 <img width="400" alt="Screenshot 2024-11-06 at 22 18 39" src="https://github.com/user-attachments/assets/e59842ca-e08e-4134-b39f-7124eafac8da">
 
 ￼
