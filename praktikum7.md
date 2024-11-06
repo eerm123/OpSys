@@ -26,7 +26,9 @@ https://kodu.ut.ee/~eerojurg/opsys/hdd.png
 Kuna minu Macbook-il ei olnud USB auku, siis mõtlesin, et loon endale virtuaalse USB: /dev/sda1: UUID="0E1B-0BB0" BLOCK_SIZE="512" TYPE="vfat" PARTUUID="30418575-81f4-4a88-af5a-2692601a2aae"
 
 
-1. Mida mõjutasid mount-käsu parameetrid -o ro ja -t auto? - (-o ro) parameeter määrab, mul USB-seadme ära nii, et sisu saab ainult lugeda - (-t auto) parameeter määrab, et operatsioonisüsteem valiks automaatselt sobiva failisüsteemi tüübi
+1. Mida mõjutasid mount-käsu parameetrid -o ro ja -t auto?
+* (-o ro) parameeter määrab, mul USB-seadme ära nii, et sisu saab ainult lugeda
+* (-t auto) parameeter määrab, et operatsioonisüsteem valiks automaatselt sobiva failisüsteemi tüübi
 
 2. Leidke mount-käsu väljundist üles, mis väärtusega asendas Ubuntu auto-parameetri?
 jurgenson24@jurgenson24:~$ mount | grep /media/usb
