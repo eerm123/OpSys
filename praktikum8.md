@@ -9,8 +9,8 @@
 
 
 #### Linux RAID 1 ülesandes 10 tehtud ekraanipildid.
+<img width="500" alt="Screenshot 2024-11-13 at 20 22 51" src="https://github.com/user-attachments/assets/5a9b039d-89b5-4112-be48-d451fd480bb5">
 
-<img width="400" alt="Screenshot 2024-11-13 at 20 22 51" src="https://github.com/user-attachments/assets/4d734aa7-13b7-41f6-9aa6-c76a3c091513">
 
 #### Nextcloudi ülesandes tehtud ekraanipildid (2 tk: nii Windows kui ka Ubuntu)
 
