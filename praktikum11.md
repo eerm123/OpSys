@@ -1,4 +1,4 @@
-# Praktikum 10
+# Praktikum 11
 ### Selles praktikumis tutvusime operatsioonisüsteemi rakenduskihi protokollidega
 
 ### Ülesanne 1
